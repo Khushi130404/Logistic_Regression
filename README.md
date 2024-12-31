@@ -16,3 +16,9 @@ This repository contains an implementation of logistic regression from scratch u
 
 6. Comparison: Provides side-by-side comparisons of different methods to highlight their strengths and weaknesses.
 
+## Dependencies
+
+- numpy
+- matplotlib
+- pandas 
+- scikit-learn
