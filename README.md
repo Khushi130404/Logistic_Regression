@@ -40,3 +40,8 @@ This repository contains an implementation of logistic regression from scratch u
 4. sklearn Implementation :
 - Uses LogisticRegression from scikit-learn for a straightforward and efficient implementation.
 - Provides a benchmark to compare the manual implementation's performance.
+
+## Visualization
+- Graphical representation of decision boundaries.
+- Loss function convergence during gradient descent.
+- Comparison of the performance of step, sigmoid, gradient descent, and sklearn implementations.
