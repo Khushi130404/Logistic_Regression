@@ -22,3 +22,21 @@ This repository contains an implementation of logistic regression from scratch u
 - matplotlib
 - pandas 
 - scikit-learn
+
+## Methodology
+
+1. Step Function :
+- A basic binary classification approach.
+- Illustrates the limitations of hard classification boundaries.
+
+2. Sigmoid Function :
+- Smooth, probabilistic classification boundary.
+- Output ranges between 0 and 1, allowing confidence levels for predictions.
+
+3. Gradient Descent :
+- Optimizes the logistic regression cost function by iteratively updating weights.
+- Implements learning rate adjustments and convergence checks.
+
+4. sklearn Implementation :
+- Uses LogisticRegression from scikit-learn for a straightforward and efficient implementation.
+- Provides a benchmark to compare the manual implementation's performance.
